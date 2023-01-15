@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+/* .oldes {
+  position: relative;
+  left: 130px;
+  bottom: 50px;
+} */
+/* .alles{
+  display: block;
+  justify-content: space-around;
+} */
+* {
+  background-color: rgb(8, 124, 124);
+}
+.INPUTS {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  padding: 5px 9px;
+  margin-top: 70px;
+  height: 40px;
+  margin-left: -130px;
+}
+
+.sureName {
+  width: 200px;
+  color: white;
+  border-radius: 7px;
+  border: 1px solid rgb(186, 231, 231);
+  background-color: rgb(157, 191, 214);
+}
+.years {
+  width: 110px;
+  color: white;
+  border-radius: 7px;
+  border: 1px solid rgb(186, 231, 231);
+  background-color: rgb(157, 191, 214);
+}
+.name {
+  width: 170px;
+  color: white;
+  border-radius: 7px;
+  border: 1px solid rgb(186, 231, 231);
+  background-color: rgb(157, 191, 214);
+}
+.buttonsWrapper {
+  margin-left: 67%;
+  display: flex;
+  gap: 5px;
+  margin-top: -43px;
+}
+
+.Clean {
+  width: 90px;
+  height: 36px;
+  border-radius: 7px;
+  color: white;
+  border: 2px solid;
+}
+
+.added {
+  width: 90px;
+  border: 2px solid;
+  color: white;
+  height: 36px;
+  border-radius: 7px;
+}
+
+.tableData {
+  margin-left: 24.7%;
+  margin-top: 16px;
+  width: 514px;
+  /* border: 2px solid whitesmoke; */
+  padding: 6px;
+  border-radius: 4px;
+}

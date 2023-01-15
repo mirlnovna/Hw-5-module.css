@@ -1,0 +1,28 @@
+.edit_remove_users {
+  display: flex;
+  justify-content: space-between;
+}
+.fonts {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
+
+.edit_remove {
+  display: flex;
+  gap: 5px;
+  position: relative;
+  left: 155px;
+  top: 25px;
+}
+.editEction {
+  color: white;
+  border-radius: 4px;
+  padding: 4px;
+  border: 2px solid;
+}
+.removeAction {
+  color: white;
+  border-radius: 4px;
+  padding: 4px;
+  border: 2px solid;
+}
